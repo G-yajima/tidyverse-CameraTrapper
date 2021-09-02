@@ -1,4 +1,9 @@
 # はじめにパッケージを読む !
+
+# インストールしてない人は要インストール
+# install.packages("tidyverse")
+# install.packages("ggplot2")
+
 library(tidyverse)
 library(ggplot2)
 
